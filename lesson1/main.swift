@@ -31,4 +31,4 @@ while (i < years){
     deposit += deposit * percent/100
     print(deposit)
     i += 1
-}
+} 
